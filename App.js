@@ -16,6 +16,8 @@ export default function App() {
       </SafeAreaView>
   );
 }
+
+//melhor opçao
 function Header ({ pagina, setpagina }){
  return (
   <View style={styles.Header}>
